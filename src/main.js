@@ -14,7 +14,7 @@ const config = {
   scene: [MenuScene, GameScene, UIScene],
   scale: {
     mode: Phaser.Scale.FIT,
-    autoCenter: Phaser.Scale.CENTER_BOTH,
+    autoCenter: Phaser.Scale.NO_CENTER,
   },
   render: {
     antialias: true,
