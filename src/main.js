@@ -1,3 +1,5 @@
+// This is the entry point to Calm Match
+
 import Phaser from 'phaser';
 import { MenuScene } from './scenes/MenuScene.js';
 import { GameScene } from './scenes/GameScene.js';
